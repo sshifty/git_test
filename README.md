@@ -1,2 +1,2 @@
 This is sshifty’s first git project!
-another change hahaads
+testing conventional commit with vscode terminal by copy/pastee
